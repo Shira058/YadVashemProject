@@ -1,0 +1,15 @@
+C:\Users\01\Desktop\Yad_Vashem\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\01\Desktop\Yad_Vashem\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\01\Desktop\Yad_Vashem\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\01\Desktop\Yad_Vashem\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\01\Desktop\Yad_Vashem\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\Desktop\Yad_Vashem\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\01\Desktop\Yad_Vashem\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\01\Desktop\Yad_Vashem\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\Yad_Vashem\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\01\Desktop\Yad_Vashem\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\01\Desktop\Yad_Vashem\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\01\Desktop\Yad_Vashem\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\01\Desktop\Yad_Vashem\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\01\Desktop\Yad_Vashem\DTO\bin\Debug\net6.0\Entities.dll
+C:\Users\01\Desktop\Yad_Vashem\DTO\bin\Debug\net6.0\Entities.pdb

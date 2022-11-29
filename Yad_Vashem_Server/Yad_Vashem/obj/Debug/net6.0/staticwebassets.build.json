@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mbcu9TzPIRQhR1SVHZgyBwSg4BBMzQr41jqtdk7d4kg=",
+  "Source": "Yad_Vashem.WebApi",
+  "BasePath": "_content/Yad_Vashem.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

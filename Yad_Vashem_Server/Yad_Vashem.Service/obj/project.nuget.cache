@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ARfDZjQXRpatgfA2m9FIe2QcdMonNM+9Ir6pepnK4QiuCxayUpChqTHkXXCCrcNDruKV27SCCKucer+8G8KdHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\01\\Desktop\\Yad_Vashem\\Yad_Vashem.Service\\Yad_Vashem.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\01\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\01\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\01\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

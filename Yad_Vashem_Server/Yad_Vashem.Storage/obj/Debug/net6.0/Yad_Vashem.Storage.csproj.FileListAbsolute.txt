@@ -1,0 +1,17 @@
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\bin\Debug\net6.0\Yad_Vashem.Storage.deps.json
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\bin\Debug\net6.0\Yad_Vashem.Storage.dll
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\bin\Debug\net6.0\Yad_Vashem.Storage.pdb
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\obj\Debug\net6.0\Yad_Vashem.Storage.csproj.AssemblyReference.cache
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\obj\Debug\net6.0\Yad_Vashem.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\obj\Debug\net6.0\Yad_Vashem.Storage.AssemblyInfoInputs.cache
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\obj\Debug\net6.0\Yad_Vashem.Storage.AssemblyInfo.cs
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\obj\Debug\net6.0\Yad_Vashem.Storage.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\obj\Debug\net6.0\Yad_Vashem.Storage.dll
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\obj\Debug\net6.0\refint\Yad_Vashem.Storage.dll
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\obj\Debug\net6.0\Yad_Vashem.Storage.pdb
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\obj\Debug\net6.0\ref\Yad_Vashem.Storage.dll
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\bin\Debug\net6.0\DTO.dll
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\bin\Debug\net6.0\DTO.pdb
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\obj\Debug\net6.0\Yad_Vashem.Storage.csproj.CopyComplete
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\bin\Debug\net6.0\Entities.dll
+C:\Users\01\Desktop\Yad_Vashem\Yad_Vashem.Storage\bin\Debug\net6.0\Entities.pdb
