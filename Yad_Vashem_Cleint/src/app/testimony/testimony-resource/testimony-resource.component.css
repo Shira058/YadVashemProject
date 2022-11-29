@@ -1,0 +1,9 @@
+div.treeName {
+    height: 1.5em;
+    overflow: hidden;
+    border: 1px solid
+}
+
+div.treeName:hover {
+    height: auto;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <mat-card>
+    <mat-tab-group  (selectedTabChange)="tabChanged($event)">
+        <mat-tab>
+            <ng-template mat-tab-label> Details</ng-template> Content 1
+        </mat-tab>
+        <mat-tab>
+            <ng-template mat-tab-label> Map</ng-template> Content 1
+        </mat-tab>
+        <mat-tab>
+            <ng-template mat-tab-label> Hierarchical Tree</ng-template> 
+            <mat-tree [dataSource]="dataSource" [treeControl]="treeControl">
+              <mat-tree-node *matTreeNodeDef="let node" matTreeNodePadding>
+                <button mat-icon-button disabled></button>
+                <div class="treeName">
+                  {{node.name}}
+                </div>
+              </mat-tree-node>
+              <mat-tree-node *matTreeNodeDef="let node;when: hasChild" matTreeNodePadding >
+                <button mat-icon-button matTreeNodeToggle
+                        [attr.aria-label]="'toggle ' + node.name">
+                  <mat-icon class="mat-icon-rtl-mirror">
+                    {{treeControl.isExpanded(node) ? 'expand_more' : 'chevron_right'}}
+                  </mat-icon>
+                </button>
+                <div class="treeName">
+                  {{node.name}}
+                </div>
+              </mat-tree-node>
+            </mat-tree>
+        </mat-tab>
+    </mat-tab-group>
+    </mat-card>
+</body>
+
+</html>

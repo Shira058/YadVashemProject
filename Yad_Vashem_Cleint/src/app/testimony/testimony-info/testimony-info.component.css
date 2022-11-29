@@ -1,0 +1,18 @@
+video {
+    float: left;
+    margin: 2%;
+}
+
+.info-text {
+    text-align: justify;
+}
+
+.testimony-lables {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.testimony-lable
+{
+    background-color: #e0e28a;
+}
